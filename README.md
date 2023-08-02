@@ -28,16 +28,4 @@ The token is automatically saved to the browser via local storage, to allow user
 ```NodeJS``` ```Express```  ```MongoDB```
 
 
-Don't feel like making an account?
-Use the default user account. 
-
-username: default
-
-password: default
-
-
-[Live Site](http://blogcabin.hellojake.com)
-
-Please allow up to 30s for application to spin up.
-
 [Backend Code](https://github.com/jakefrancis/blogcabin-backend)
